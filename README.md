@@ -2,8 +2,11 @@
 
 ### Circuit Description
 
-
-| Header 1 | Header 2 | Header 3 |
-| --- | --- | --- |
-| Row 1, Col 1 | Row 1, Col 2 | Row 1, Col 3 |
-| Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 |
+| INMP441 | XIAO ESP32S3 |
+| --- | --- |
+| SD | D0 |
+| VDD | 3V3 (3.3 Volts) |
+| GND | GND |
+| L/R | GND (Makes it mono channel audio) |
+| WS | D2 |
+| SCK | D1 |
